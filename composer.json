@@ -3,6 +3,8 @@
   "description": "Magento 2 ArraySerialized sample",
   "type": "magento2-module",
   "version": "1.0.0",
+  "minimum-stability": "dev",
+  "prefer-stable": "true",  
   "license": "Open Source License",
   "keywords": [
       "magento 2",
